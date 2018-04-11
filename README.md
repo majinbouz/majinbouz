@@ -1,0 +1,2 @@
+# majinbouz
+website voor informatica
